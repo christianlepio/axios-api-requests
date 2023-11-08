@@ -1,0 +1,21 @@
+html{
+    height: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+body{
+    transition: all 0.3s ease-in-out !important;
+    position: relative !important;
+    min-height: 95% !important;
+    padding-bottom: 4rem !important;
+    box-sizing: inherit !important;
+}
+
+footer {
+    color: rgb(211, 211, 211);
+    text-align: center;
+    position: absolute !important;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
